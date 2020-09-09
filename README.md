@@ -49,11 +49,11 @@
 ## 预览
 ---
 1. 创建问卷，根据JSON模板创建，可视化的JSON编辑器，非常方便
-   ![1创建问卷](./image/1.png)
+   ![1创建问卷](https://github.com/tim5wang/questionnaire/blob/master/image/1.png)
 
 2. 问卷管理、预览和发布。
-   ![2预览问卷](./image/2.png)
+   ![2预览问卷](https://github.com/tim5wang/questionnaire/blob/master/image/2.png)
 
 3. 发布后的问卷链接
-   ![3问卷填写](image/3.png)
+   ![3问卷填写](https://github.com/tim5wang/questionnaire/blob/master/image/3.png)
 
